@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄 Pronouns: He/His<br>🔭 I’m currently building With Web3 & JavaScript.<br>🌱 I’m currently learning more about BlockChain & Web3.<br>👯 I’m looking to Work .<br>🤔 Every Day New Stuff.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost all night on computer.
+😄 Pronouns: He/His<br>🔭 I’m currently building Website's & Learning JavaScript it's frameworks REACTjs Nxtjs.<br>🌱 I’m currently learning more about BlockChain & Web3.<br>👯 I’m looking to Work .<br>🤔 Every Day New Stuff.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost all night on computer.
 
 
 ## 🌐 Socials:
