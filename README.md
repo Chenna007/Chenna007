@@ -1,5 +1,12 @@
-# 💫 About Me:
-😄 Pronouns: He/His<br>🔭 I’m currently building Website's & Learning JavaScript it's frameworks REACTjs Nxtjs.<br>🌱 I’m currently learning more about BlockChain & Web3.<br>👯 I’m looking to Work .<br>🤔 Every Day New Stuff.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost all night on computer.
+Pronouns: He/Him
+🔐 Cybersecurity Professional | Certified Penetration Tester (CPT)
+🛡️ 2+ years of hands-on experience in Vulnerability Assessment & Penetration Testing (VAPT)
+🌐 Skilled in Web & Mobile Application Security, Network Security, and Threat Modeling
+⚙️ Tools: Burp Suite, OWASP ZAP, Nessus, Metasploit, Nmap, Wireshark, SQLmap
+🐍 Scripting & Automation: Python, PowerShell, SQL
+☁️ DevSecOps & Cloud Basics: CI/CD, Docker, GitHub Actions, AWS, Azure
+📊 Passionate about security research, automation, and improving application security posture
+📫 Reach me via LinkedIn or portfolio links below
 
 
 # 💻 Tech Stack:
