@@ -31,9 +31,6 @@ https://github.com/Chenna007?tab=repositories
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-## GitHub Stats
-![Chenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chenna007&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Chenna007&theme=tokyonight)
 
 ---
 
